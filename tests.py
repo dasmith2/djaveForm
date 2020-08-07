@@ -1,6 +1,8 @@
 import unittest
 
+from djaveForm.button import Button
 from djaveForm.field import PositiveFloatField
+from djaveForm.form import Form
 
 
 class Tests(unittest.TestCase):
